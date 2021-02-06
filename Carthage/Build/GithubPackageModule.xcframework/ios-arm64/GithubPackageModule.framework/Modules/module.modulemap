@@ -1,0 +1,11 @@
+framework module GithubPackageModule {
+  umbrella header "GithubPackageModule.h"
+
+  export *
+  module * { export * }
+}
+
+module GithubPackageModule.Swift {
+    header "GithubPackageModule-Swift.h"
+    requires objc
+}

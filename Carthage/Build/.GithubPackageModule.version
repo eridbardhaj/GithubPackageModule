@@ -1,0 +1,28 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "0.0.1",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "bf41832a62b2c92d20ace744735701fa73ddd49e1732bd1f5f56e0c81aa19fbf",
+      "name" : "GithubPackageModule",
+      "container" : "GithubPackageModule.xcframework",
+      "identifier" : "ios-arm64"
+    },
+    {
+      "swiftToolchainVersion" : "5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)",
+      "hash" : "f59fd940c6c0b9ec0dcc819c0fa92e3e21b9fbfe8a1a16561a83395a8e59e040",
+      "name" : "GithubPackageModule",
+      "container" : "GithubPackageModule.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    }
+  ]
+}
